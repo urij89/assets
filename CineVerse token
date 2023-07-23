@@ -1,0 +1,17 @@
+{
+    "name": "CineVerse Token",
+    "website": "Coming Soon",
+    "description": "CineVerse Token: Empowering Hollywood Creativity, uniting cinema lovers. 20% of tokens go to support SAG and WGA. Join us to fast-track the end of strikes.",
+    "explorer": "https://coinmarketcap.com/dexscan/bsc/0x675129ef876b4d69b7c58c962a060c7bd1c67871",
+    "type": "BEP20",
+    "symbol": "CINE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x36cFf7C417641e8Ad1835Af7E588C2bAA5338710",
+    "links": {
+        "PancakeSwap": "https://pancakeswap.finance/swap?outputCurrency=0x36cFf7C417641e8Ad1835Af7E588C2bAA5338710",
+        "Telegram": "https://t.me/cineVerse_groupofficial",
+        "Twitter": "https://twitter.com/CineVerseToken/status/1682814165881110532?t=Cpwb98aOTX1eQKgKDkZNrA&s=35"
+    },
+    "logo": "https://i.ibb.co/m8ms8SR/DALL-E-2023-07-18-00-05-45.png"
+}
